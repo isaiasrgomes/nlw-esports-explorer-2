@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar!](https://zary-java.github.io.nlw-esports-explorer-2)
+[Clique aqui para acessar!](https://zary-java.github.io/nlw-esports-explorer-2)
 
 
 ## 🔨 Tecnologias
